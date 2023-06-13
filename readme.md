@@ -5,5 +5,6 @@
 
 <hr>
 
-![image](https://github.com/Yemresalcan/JavaScript-1-Drumkit/assets/58724276/d363c801-5a52-4722-b468-cd91e799faff)
+![image](https://github.com/Yemresalcan/JavaScript-1-Drumkit/assets/58724276/a375ab86-8a69-4899-8ca2-72ae23781d02)
+
 
